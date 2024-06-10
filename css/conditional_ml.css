@@ -347,7 +347,7 @@ legend{ display:inline-block; width:auto; border-bottom:none; font:20px/18px 'Po
 h1{padding-top:10px;}
 h2{padding-top: 20px;}
 h4{font-size: 22px;}
-.email{padding: 5px 0 0 75px;min-height:}
+.email{padding: 5px 0 0 75px;}
 .cont-feld {width: 48.8%;}
 .services .fa {font-size: 40px;}
 .services {height: 170px;width: 60px;}
@@ -596,7 +596,7 @@ ul.float_3x3 li{margin:0px 0px 20px 0px; padding:0; list-style:none; float:none;
 .call_sec .fa{width:25px;}
 .call_dis2 {width:250px;}
 .navbar-static-top .navbar-nav > li{ border-right:none;}
-.sr-only{position:absolute width:auto !important;height:auto !important;padding:0;overflow:hidden !important;clip:inherit;color:#fff !important;margin-top:-12px;left:10px;text-transform:uppercase;font-weight:600;}
+.sr-only{position:absolute; width:auto !important; height:auto !important;padding:0;overflow:hidden !important;clip:inherit;color:#fff !important;margin-top:-12px;left:10px;text-transform:uppercase;font-weight:600;}
 .t2_fixer{position:relative;}
 
 /*welcome-div-start*/
@@ -650,3 +650,8 @@ padding-top: 12px;}
 .serv-cont:hover .serv-img figure img{transform:scale(1.1,1.1)}
 .serv-cont a{color:#fff;font-size:16px;font-weight:500;text-align:center;display:block;padding:10px 0; transition:all linear .3s;text-decoration:none;}
 .serv-cont:hover{background:#1366b2;}
+
+/* footer Styles */
+.footer_text{
+   color: #159dd9
+}

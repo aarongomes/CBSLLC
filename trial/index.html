@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Floating Button Popup</title>
+</head>
+<body>
+    <div id="overlay" class="overlay"></div>
+    <button id="open-popup" class="floating-button">Open Popup</button>
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <span class="close" id="close-popup">&times;</span>
+            <h2>Popup Form</h2>
+            <form id="popup-form">
+                <div id="inputField">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                </div>
+                <div id="inputField">
+                <label for="phnum">Phone Number:</label>
+                <input type="text" id="" name="phnum" required>
+                </div>
+                <div id="inputField">
+                <label for="email">Message:</label>
+                <input type="text" id="message" name="message" required>
+                </div>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
