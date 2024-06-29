@@ -248,7 +248,20 @@ function validate_contactus() {
         </div>
         </fieldset>
         </form>
+		<p>
+		By providing my phone number to, <b>Certitude Business Solutions LLC</b> I agree and acknowledge
+		that <i>“Certitude Business Solutions LLC”</i> may send text messages to my wireless phone number for any purpose.
+		Message and data rates may apply. Message frequency will vary, and you will be able to opt-out by
+		replying <b><i>“STOP.” </i></b>For more information on how your data will be handled, please
+		see our privacy policy below:<br>
+		<b>Privacy Policy:</b><br>
+		No mobile information will be shared with third parties/affiliates for
+		marketing/promotional purposes. All the above categories exclude text
+		messaging originator opt-in data and consent; this information will not
+		be shared with third parties.
+		</p>
         </div>
+
     <div class="visible-xs visible-sm bb mb40">&nbsp;</div>
     
     <div class="col-xs-12 col-md-4">
